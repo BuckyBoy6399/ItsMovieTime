@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "784996432038",
+    "firebase_url": "https://itsmovietime-c963b.firebaseio.com",
+    "project_id": "itsmovietime-c963b",
+    "storage_bucket": "itsmovietime-c963b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784996432038:android:96a5e75c52342510",
+        "android_client_info": {
+          "package_name": "com.example.rajraval.itsmovietime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784996432038-ud5aoet0tphbfp70srejcsqdqlkajr9c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rajraval.itsmovietime",
+            "certificate_hash": "45e51832886dbd957fa54763bfadcd711444c286"
+          }
+        },
+        {
+          "client_id": "784996432038-k6jkimg6r042r6bv0ga95k66j843rqb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-g4qRJjV1EaDyiHLRHwd6FxYRTKhhJ6M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784996432038-k6jkimg6r042r6bv0ga95k66j843rqb1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
